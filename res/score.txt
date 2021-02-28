@@ -1,0 +1,6 @@
+Mahmud Pavel:40000
+Mahedi Rahat:27100
+Sneha Devi:26000
+Nurul Afsar:23800
+SNEHA:12000
+player:10000
